@@ -1,6 +1,6 @@
 # AngularHelloWorld
 
-This project was implemented based on the guidance and code snipets provided at the book: https://www.ng-book.com/2/
+This project was implemented based on the guidance and code snippets provided at the book: https://www.ng-book.com/2/
 It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
